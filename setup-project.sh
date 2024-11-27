@@ -8,7 +8,7 @@ NC="\033[0m"
 
 # Configuración del proyecto
 PROJECT_NAME="netfix-hub"
-GITHUB_USERNAME="aparicioedge"
+GITHUB_USERNAME="hectoraparici0"
 REPO_URL="https://github.com/$GITHUB_USERNAME/$PROJECT_NAME.git"
 
 echo -e "${BLUE}=== Configurando $PROJECT_NAME ===${NC}"
